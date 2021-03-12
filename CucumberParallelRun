@@ -1,4 +1,6 @@
 --------------Approach #1----------------- 
+
+Not recommonded as new Cucumber Versions > 4.0 have built in parallel execution support
 Using cucumber-jvm-parallel-plugin
 
 Steps :
